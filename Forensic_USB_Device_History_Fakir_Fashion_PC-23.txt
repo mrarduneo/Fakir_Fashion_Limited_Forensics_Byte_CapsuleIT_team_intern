@@ -1,0 +1,6 @@
+USB Device Connection History
+Host: PC-23 | Fakir Fashion & IT Limited
+
+Device: Kingston DataTraveler 3.0
+Serial: 001A4D73B4D8F921A3B_23
+Last Connected: 2026-11-12 10:15:00

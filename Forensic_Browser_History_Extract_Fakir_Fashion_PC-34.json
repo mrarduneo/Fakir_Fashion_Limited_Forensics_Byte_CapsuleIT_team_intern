@@ -1,0 +1,8 @@
+{
+  "organization": "Fakir Fashion & IT Limited",
+  "host": "PC-34",
+  "extracted_history": [
+    {"url": "http://attacker-c2.com/login", "visit_time": "2026-11-12 14:00:00"},
+    {"url": "https://mega.nz/file/...", "visit_time": "2026-11-12 14:05:00"}
+  ]
+}

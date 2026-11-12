@@ -1,0 +1,6 @@
+RegRipper Analysis Report
+Organization: Fakir Fashion & IT Limited
+Target Host: PC-100
+
+[+] Suspicious Run Key Found:
+HKCU\Software\Microsoft\Windows\CurrentVersion\Run -> C:\Users\Public\svchost_fake.exe

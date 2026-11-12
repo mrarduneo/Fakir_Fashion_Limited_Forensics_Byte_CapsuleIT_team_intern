@@ -1,0 +1,7 @@
+Active Directory Security Audit Log
+Organization: Fakir Fashion & IT Limited
+
+Event: 4624 (Logon Success)
+Target System: PC-2
+User: sys_admin_temp
+Note: Potential privilege escalation detected on PC-2.

